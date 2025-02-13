@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-Valle05211261-)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=GilGarate21212743/gemelosdigitales-leyes-de-crecimiento-exponencial-gilgarate-21212743)
 
 # Gemelos Digitales. Práctica 1: Leyes de crecimiento exponencial [Valle05211261]
 
